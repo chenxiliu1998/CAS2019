@@ -4,7 +4,8 @@ my work in CAS<br>
 ## 调研 
 `2019.9.9`<br>
 [OMG-Emotion](https://www.cnblogs.com/cadenza/p/9982005.html)<br>
-[OMG-Emotion](http://www.yidianzixun.com/article/0IYcHzMr)
+[OMG-Emotion](http://www.yidianzixun.com/article/0IYcHzMr)<br>
+见`CK+&OMG_Emotion.md`
 ### task
 - 当前进展
 - 公开数据集
