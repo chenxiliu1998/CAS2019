@@ -111,3 +111,12 @@ DetailedAnnotations文件夹包含每个语句的所有注释。每个注释都�
 - 4 - Neutral
 - 5 - Sad
 - 6 - Surprise
+
+### paper
+- A Deep Network for Arousal-Valence Emotion Prediction with Acoustic-Visual Cues <br>
+https://github.com/pengsongyou/OMG-ADSC
+- A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild <br>
+
+- 6 - Surprise#
+- 6 - Surprise#
+- 6 - Surprise
