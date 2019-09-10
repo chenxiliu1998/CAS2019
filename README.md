@@ -7,6 +7,7 @@ my work in CAS<br>
 [OMG-Emotion](http://www.yidianzixun.com/article/0IYcHzMr)<br>
 见`CK+&OMG_Emotion.md`
 ### task
+`数据集&当前进展.md`
 - 当前进展
 - 公开数据集
 - 目前的研究方案
